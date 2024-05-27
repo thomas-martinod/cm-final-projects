@@ -22,6 +22,7 @@ Si sabemos esto, ¿acaso es posible saber cómo se van a mover? ¿Cómo se va a 
 
 El problema es tan complicado de predecir, de hecho, que simples ecuaciones no podrán hacerlo. No hay una fórmula que te diga cómo se van a mover. Debemos usar aproximaciones dependiendo del caso que vayamos a estudiar, dependiendo de las masas, distancias, y velocidades de los objetos; no hay una solución general que nos funcione para todos los casos. Es por eso que hoy nos preocupamos únicamente por el caso del triángulo equilátero.
 
-![trescuerpos2](/static/images/grupo2/Illustration-of-the-Lagrange-solution-with-an-equilateral-triangle-joining-three-masses_Q320.jpg)
+<img src="/exampleSite/static/images/grupo2/Illustration-of-the-Lagrange-solution-with-an-equilateral-triangle-joining-three-masses_Q320.jpg" alt="Trayectorias" width="400">
+
 
 Imagina entonces que los objetos estuvieran en las esquinas de un triángulo equilátero, a iguales distancias entre sí. El problema se vuelve más sencillo, ya que se puede describir a partir de sus fuerzas en las distancias y direcciones que actúan. Quizás algún día, a partir de este caso específico, podremos encontrar soluciones generales para el problema de los tres cuerpos, quizás incluso para problemas de más cuerpos. De pronto, incluso, nos ayudará a entender la realidad un poco más, nos revelará un poco más sobre el universo que habitamos.
