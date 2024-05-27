@@ -10,6 +10,7 @@ tags:
   - Problema de los tres cuerpos
   - Mecánica clásica
 description: ""
+image: /images/grupo1/lights.gif
 toc:
 mathjax: true
 ---
