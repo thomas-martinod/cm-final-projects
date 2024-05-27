@@ -29,15 +29,18 @@ El pendubot es un gran ejemplo de cómo la correcta aplicación de los principio
 
 ### PID con pendubot
 
-![DiagrmaPendubot](\images\grupo5\DiagramaPendubot.png)
-
 Imagina que estas agarrando un café con tu brazo, tu vas a intentar que tu brazo se mantenga en un estado específico para que no se riegue, para ello tu antebrazo intentará moverse para mantener la estabilidad de este, de igual manera el pendubot intenta mover el primer brazo para que el segundo se mantenga siempre hacia arriba, esto es lo que busca el PID, mantener el según brazo apuntando al cielo, pero el primer paso para aplicar el PID es encontrar el modelo del sistema representado por una función de transferencia.
 
 ### Pendubot en el dominio de la frecuencia
 
-![estableeee](\images\grupo5\estableeee.png)
+En la entrada anterior vimos como funcionaba el modelo matemático del pendubot, ahora vamos a tomar dicho modelo y gracias a un amigable señor con apellido Laplace, podemos mover nuestro modelo a un dominio extraño, pero efectivo, es como si el tiempo ya no fuera tiempo y ahora son oscilaciones de una cuerda, gracias a la transformada de Laplace podemos obtener nuestra función de transferencia a la cuál podemos aplicar calcular el con métodos como el Tunning o dejando que nuestro programa de confianza Matlab lo haga por nosotros. Nuestro sistema oscilará de la siguiente manera:
 
-En la entrada anterior vimos como funcionaba el modelo matemático del pendubot, ahora vamos a tomar dicho modelo y gracias a un amigable señor con apellido Laplace, podemos mover nuestro modelo a un dominio extraño, pero efectivo, es como si el tiempo ya no fuera tiempo y ahora son oscilaciones de una cuerda, gracias a la transformada de Laplace podemos obtener nuestra función de transferencia a la cuál podemos aplicar calcular el con métodos como el Tunning o dejando que nuestro programa de confianza Matlab lo haga por nosotros, ahora que tenemos nuestro PID, podrás mantener en pie a tu ejercito de robots para dominar el mundo.
+![estableeee](\images\grupo5\step.png)
+
+Y teniendo nuestro PID, podemos ver como se estabiliza con el tiempo y por ende podrás mantener en pie a tu ejercito de robots para dominar el mundo.
+
+![estableeee](\images\grupo5\PID.png)
+
 
 ### Conclusión
 
