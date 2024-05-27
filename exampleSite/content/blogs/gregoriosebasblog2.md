@@ -20,12 +20,12 @@ Anteriormente, explicamos qué pasa cuando tres cuerpos bailan únicamente bajo 
 
 Les hablaríamos de la matemática, de la increíblemente larga y ardua matemática que utilizamos para crear las imágenes a continuación, podríamos hablar de la mecánica clásica y de los Lagrangianos y de Newton y de... me estoy aburriendo a mí mismo hablando de eso, así que no me imagino a ustedes. Sin más preámbulo, esto es lo que encontramos.
 
-![trescuerposavance1](exampleSite/static/images/grupo 2/avance1.png)
+<img src="/exampleSite/static/images/grupo 2/avance1.png" alt="Lag2" width="300">
 
 Vaya montón de líneas de colores. ¿Pero qué significan? Pues estas son las posiciones de los cuerpos, horizontales y verticales. Sus posiciones oscilan, es decir, hacen lo mismo una y otra vez. Suben y bajan. Podemos ver cómo orbitan entre sí, cómo cambian con el tiempo, cómo repiten lo mismo una y otra vez, casi exactamente. Ahora, supongo que no ayuda mucho a visualizar cómo cambia el sistema, por lo que les tenemos una manera mejor de verlo. Una manera increíble, donde se puede ver la majestuosidad del movimiento de nuestros pequeños astros virtuales.
 
 Y eso, se ve así.
 
-![trescuerposavancegif](exampleSite/static/images/grupo 2/3BodyProblem.gif)
+<img src="/exampleSite/static/images/grupo 2/3BodyProblem.gif" alt="Lag3" width="400">
 
 Hermoso, ¿no? Por si no me creían que era un baile. Ahora imagínense eso en la actualidad, cuerpos celestiales masivos bailando por cantidades incontables de tiempo. Escalofriante, casi. Casi tanto como para desencadenar una crisis existencial. ¡Hasta la próxima!
