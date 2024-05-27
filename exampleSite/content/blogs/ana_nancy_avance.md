@@ -8,8 +8,8 @@ tags:
   - Anteproyecto
   - Grupo 4
   - Carga puntual en campo EM
-  -Relativista
-  -Fuerza electromagnética
+  - Relativista
+  - Fuerza electromagnética
 
 image: /images/grupo4/videito.gif
 description: "Trayectoria de dos partículas en un campo EM en el tiempo"
