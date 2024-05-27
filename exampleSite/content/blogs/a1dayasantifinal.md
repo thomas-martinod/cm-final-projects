@@ -1,6 +1,6 @@
 ---
-title: "Modelo Matemático de un Pendubot Mediante Mecánica Lagrangiana"
-date: 2024-04-19
+title: "Simulación de un Modelo Matemático de un Pendubot Mediante Mecánica Lagrangiana"
+date: 2024-05-27
 draft: false
 github_link: "https://github.com/thomas-martinod/proyectos-finales-CM"
 author: "Dayana Estefanía Carmona Gamarra y Santiago Moncayo Sarria"
@@ -35,12 +35,11 @@ Imagina que estas agarrando un café con tu brazo, tu vas a intentar que tu braz
 
 En la entrada anterior vimos como funcionaba el modelo matemático del pendubot, ahora vamos a tomar dicho modelo y gracias a un amigable señor con apellido Laplace, podemos mover nuestro modelo a un dominio extraño, pero efectivo, es como si el tiempo ya no fuera tiempo y ahora son oscilaciones de una cuerda, gracias a la transformada de Laplace podemos obtener nuestra función de transferencia a la cuál podemos aplicar calcular el con métodos como el Tunning o dejando que nuestro programa de confianza Matlab lo haga por nosotros. Nuestro sistema oscilará de la siguiente manera:
 
-![estableeee](\images\grupo5\step.png)
+![step](\images\grupo5\step.png)
 
 Y teniendo nuestro PID, podemos ver como se estabiliza con el tiempo y por ende podrás mantener en pie a tu ejercito de robots para dominar el mundo.
 
-![estableeee](\images\grupo5\PID.png)
-
+![PID](\images\grupo5\PID.png)
 
 ### Conclusión
 
