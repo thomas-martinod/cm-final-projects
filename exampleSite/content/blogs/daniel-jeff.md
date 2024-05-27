@@ -24,7 +24,7 @@ La levitación acústica utiliza ondas de sonido de alta frecuencia para mantene
 
 Para nuestra investigación teorizamos un sistema con un arreglo lineal de transductores. Estos transductores trabajan juntos para crear un nodo de presión, un punto donde la presión del sonido es tan alta que puede mantener una gota de agua en su lugar sin que caiga. Controlando la intensidad y la frecuencia de los transductores, y así variar este nodo.
 
-<img src="exampleSite/static/images/grupo jeff/trans.jpg" alt="trans" width="300">
+<img src="/exampleSite/static/images/grupo jeff/trans.jpg" alt="trans" width="300">
 
 
 #### Matemáticas en Acción
@@ -33,8 +33,8 @@ La matemática detrás de la levitación acústica es compleja pero fascinante. 
 
 El potencial de Gor’kov nos ayudó a identificar los puntos donde la presión es suficiente para mantener la gota suspendida. A partir de ahí, calculamos las velocidades y trayectorias de la gota, asegurándonos de que se mantenga en el nodo de presión mientras se mueve.
 
-<img src="exampleSite/static/images/grupo jeff/graph1.png" alt="g1" width="300">
-<img src="exampleSite/static/images/grupo jeff/graph2.png" alt="g2" width="300">
+<img src="/exampleSite/static/images/grupo jeff/graph1.png" alt="g1" width="300">
+<img src="/exampleSite/static/images/grupo jeff/graph2.png" alt="g2" width="300">
 
 
 
