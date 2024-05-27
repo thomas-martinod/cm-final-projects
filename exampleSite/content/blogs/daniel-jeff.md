@@ -33,8 +33,9 @@ La matemática detrás de la levitación acústica es compleja pero fascinante. 
 
 El potencial de Gor’kov nos ayudó a identificar los puntos donde la presión es suficiente para mantener la gota suspendida. A partir de ahí, calculamos las velocidades y trayectorias de la gota, asegurándonos de que se mantenga en el nodo de presión mientras se mueve.
 
-<img src="/exampleSite/static/images/grupo jeff/graph1.png" alt="g1" width="300">
 <img src="/exampleSite/static/images/grupo jeff/graph2.png" alt="g2" width="300">
+
+<img src="/exampleSite/static/images/grupo jeff/graph1.png" alt="g1" width="300">
 
 
 
