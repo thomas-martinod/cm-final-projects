@@ -23,4 +23,10 @@ Es con gran lastima que escribimos este ultimo blog; ha sido un interesante viaj
 
 En primer lugar, usamos el modelo que desarrollo Newton para intentar estudiar un sistema de tres cuerpos en forma de triangulo, utilizando la ley que el descubrio, la ley de gravitacion universal, para ver que tan fuertemente se atraen los cuerpos. 
 
+$$\frac{d^2 \vec{r_i}}{dt^2} = \sum_{j \neq i} \frac{G m_j}{r^3_{ij}} \vec{r_{ij}}$$
+
+¿Pero que es eso? Que espeluznante. Pero no se preocupen, solo es notacion complicada; lo unico que nos quiere decir, es que el cambio en el tiempo del cambio en el tiempo(la aceleracion) de la distancia entre los cuerpos, que es la letra r; depende de m, que es la masa de los cuerpos; de r, que otra vez, es la distancia entre ellos; y G, que es un numero muy pequeño (¡la gravedad es muy debil!) que se llama la constante de gravedad. Esta es la famosa ley de gravitacion universal de Newton. Utilizando esta formula para relacionar las distintas cantidades del sistema, nos dio el siguiente comportamiento:
+
+![img1]{exampleSite/static/images/grupo 2/mecanicalagr.png}
+
 
