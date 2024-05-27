@@ -26,6 +26,6 @@ Vaya montón de líneas de colores. ¿Pero qué significan? Pues estas son las p
 
 Y eso, se ve así.
 
-<img src="exampleSite/static/images/grupo 2/3BodyProblem.gif" alt="Lag3" width="300">
+<img src="/exampleSite/static/images/grupo 2/3BodyProblem.gif" alt="Lag3" width="400">
 
 Hermoso, ¿no? Por si no me creían que era un baile. Ahora imagínense eso en la actualidad, cuerpos celestiales masivos bailando por cantidades incontables de tiempo. Escalofriante, casi. Casi tanto como para desencadenar una crisis existencial. ¡Hasta la próxima!
